@@ -12,3 +12,16 @@ The commands are:
 - c: clean all / restart
 
 For this projecty I took A LOT of inspiration from [this youtube video](https://www.youtube.com/watch?v=JtiK0DOeI4A&t=2147s).
+
+
+
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="./example.gif" alt="">
+  </div>
+  <div>
+    sdkjfnakljdnfkjsadfjklvnsdflkngskjdflgksndfjkgms,ljdfngklsdnmfkjg dsl
+  </div>
+</div>
